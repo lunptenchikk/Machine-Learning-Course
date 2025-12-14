@@ -1,0 +1,3 @@
+Slabe cechy: ['id', 'host_id', 'reviews_per_month', 'latitude', 'minimum_nights', 'number_of_reviews']
+MAE: 70.165
+Czas trenowania: 317.69 s

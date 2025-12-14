@@ -1,0 +1,5 @@
+LinearRegression: MAE = 73.359
+RandomForestRegressor: MAE = 69.390
+KNeighborsRegressor: MAE = 72.377
+
+Najlepszy model: RandomForestRegressor (MAE = 69.390)

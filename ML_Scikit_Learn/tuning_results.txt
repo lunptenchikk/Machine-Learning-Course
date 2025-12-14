@@ -1,0 +1,6 @@
+Najlepsze parametry:
+model__n_estimators: 200
+model__max_features: sqrt
+model__max_depth: 30
+
+Najlepsze MAE: 64.903

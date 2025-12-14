@@ -1,0 +1,7 @@
+Slabo skorelowane cechy:
+id
+host_id
+reviews_per_month
+latitude
+minimum_nights
+number_of_reviews
