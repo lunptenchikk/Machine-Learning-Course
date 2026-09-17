@@ -1,16 +1,16 @@
 # Machine-Learning-Course  
 Projects & Notebooks — Jagiellonian University
 
-## 📌 Author
+## Author
 **Name:** Diemid Rybchenko  
 **Course:** Machine Learning (UJ)  
 **Year:** 2025/2026  
 
-## 📘 About This Repository
+## About This Repository
 This repository contains my implementations, notebooks, and project work created during the Machine Learning course at Jagiellonian University.  
 It serves as a structured collection of practical ML exercises, experiments, and reusable code templates.
 
-## 🧠 Topics Covered
+## Topics Covered
 
 ### 1. Data Preprocessing
 - handling missing data  
